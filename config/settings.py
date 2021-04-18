@@ -130,6 +130,6 @@ STATICFILES_DIRS = [ #追加
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CORS_ORIGIN_WHITELIST = ( #追加
-    'http://localhost:3000', 
-)
+# CORS_ORIGIN_WHITELIST = ( #追加
+#     'http://localhost:3000', 
+# )
